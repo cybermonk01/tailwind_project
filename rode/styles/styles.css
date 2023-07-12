@@ -1,0 +1,98 @@
+.hero-section {
+  background-image: url(https://edge.rode.com/images/page/1/modules/5813/rode-rodecaster-pro-II-home-page-1920x700-rgb.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #7b7979;
+}
+.nth-section {
+  background-image: url(https://edge.rode.com/images/page/1/modules/5873/rode-nth100-lifestyle-insitu-female-looking-down-grey-1920x700-rgb.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nt-usb {
+  background-image: url(https://edge.rode.com/images/page/1/modules/5914/rode-nt-usb-webheader-v7-1920x700-rgb.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pod-mic {
+  background-image: url(../images/rode-podmicc.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.wireless {
+  background-image: url(https://edge.rode.com/images/page/1/modules/314/WIGOII-WEBHEADER-02.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.mini {
+  background-image: url(../images/rode-nt-usb-mini.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.explore-01 {
+  background-image: url(https://raw.githubusercontent.com/prakash-naikwadi/rode-website-clone/main/images/microphones.png);
+}
+
+.explore-02 {
+  background-image: url(../images/interface.jpg);
+}
+
+.explore-03 {
+  background-image: url(../images/software.jpg);
+}
+
+.explore-04 {
+  background-image: url(https://edge.rode.com/images/page/254/modules/17/accessories_module-desktop.jpg);
+}
+
+.explore-01,
+.explore-02,
+.explore-03,
+.explore-04 {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.explore-01:hover {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(119, 119, 119, 0.35),
+      rgba(119, 119, 119, 0.35)
+    ),
+    url(https://raw.githubusercontent.com/prakash-naikwadi/rode-website-clone/main/images/microphones.png);
+}
+.explore-02:hover {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(119, 119, 119, 0.35),
+      rgba(119, 119, 119, 0.35)
+    ),
+    url(../images/interface.jpg);
+}
+.explore-03:hover {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(119, 119, 119, 0.35),
+      rgba(119, 119, 119, 0.35)
+    ),
+    url(../images/software.jpg);
+}
+.explore-04:hover {
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(119, 119, 119, 0.35),
+      rgba(119, 119, 119, 0.35)
+    ),
+    url(https://edge.rode.com/images/page/254/modules/17/accessories_module-desktop.jpg);
+}
